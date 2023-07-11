@@ -1,0 +1,15 @@
+{
+  "name": "@ryanforever/resolume",
+  "version": "1.0.0",
+  "description": "resolume API interface",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "resolume",
+    "arena"
+  ],
+  "author": "ryan forever",
+  "license": "ISC"
+}
