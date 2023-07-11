@@ -11,5 +11,9 @@
     "arena"
   ],
   "author": "ryan forever",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@ryanforever/logger": "^5.0.2",
+    "axios": "^1.4.0"
+  }
 }
